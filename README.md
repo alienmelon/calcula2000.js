@@ -1,6 +1,8 @@
 ## CALCULA2000 (PROFESSIONAL EDITION) brought you the future of desktop calculators...
 # Now with CALCULA2000 (JAVASCRIPT EDITION) your website can also benefit from having a calculator present!No prior knowledge of computer programming is required to install CALCULA2000.js on your website!
 
+[Click here for a live demo!](http://tetrageddon.com/calcula2000/)
+
 Simply upload the "calcula2000jsedition" folder in the same directory as your website, or html document that you would like to calcula2000 enable.
 
 Once successfully uploaded using your FTP technique of choice, embed the state of the art calcula2000 javascript by copy and pasting the following under your page's "head" tag:
